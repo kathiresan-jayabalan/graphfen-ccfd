@@ -1,1 +1,14 @@
+# Core numerical / data stack
+numpy
+pandas
+scikit-learn
+imbalanced-learn
 
+# Deep learning
+torch
+
+# PyTorch Geometric (meta-package; extensions must be installed per PyG docs)
+torch-geometric
+
+# Progress bars
+tqdm
