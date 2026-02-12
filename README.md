@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18618197.svg)](https://doi.org/10.5281/zenodo.18618197)
+
 # GRAPHFEN-CCFD  
 Graph-Based Heterogeneous Fraud Embedding Network for Credit Card Fraud Detection
 
