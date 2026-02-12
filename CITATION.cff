@@ -1,1 +1,22 @@
+cff-version: 1.0.0
+message: "If you use this program, please cite it as below."
+type: software
+title: "GraphFEN-CCFD: Heterogeneous GNN Model for Credit Card Fraud Detection"
+version: 1.0.0
+date-released: 2026-02-12
+license: Apache-2.0
+repository-code: "https://github.com/kathiresan-jayabalan/graphfen-ccfd"
 
+authors:
+  - family-names: Jayabalan
+    given-names: Kathiresan
+    affiliation: "Research Scholar, Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India"
+    email: kathiresan.jayabalan@gmail.com
+
+keywords:
+  - credit-card-fraud-detection
+  - deep learning
+  - heterogeneous-graph
+  - graph-neural-network
+  - pytorch-geometric
+  - machine learning
