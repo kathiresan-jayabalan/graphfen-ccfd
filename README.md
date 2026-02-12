@@ -158,3 +158,4 @@ This project is licensed under the Apache License 2.0.
 
 If you use this repository in academic or research work, please cite:
 
+Jayabalan, K. (2026). GraphFEN-CCFD: Heterogeneous GNN Model for Credit Card Fraud Detection (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18618197
