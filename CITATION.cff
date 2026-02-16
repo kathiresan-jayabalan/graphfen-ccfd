@@ -12,6 +12,7 @@ authors:
     given-names: Kathiresan
     affiliation: "Research Scholar, Sathyabama Institute of Science and Technology, Chennai, Tamil Nadu, India"
     email: kathiresan.jayabalan@gmail.com
+    orcid: "https://orcid.org/0009-0006-0902-772X"
 
 keywords:
   - credit-card-fraud-detection
@@ -20,3 +21,5 @@ keywords:
   - graph-neural-network
   - pytorch-geometric
   - machine learning
+
+abstract: "A deep learning pipeline implementing heterogeneous graph neural networks for credit card fraud detection. GraphFEN-CCFD represents financial transactions as a heterogeneous graph where nodes correspond to entities (cards, merchants, devices) and edges represent transactional relationships. The model employs graph convolutional message passing to aggregate neighborhood information and learn discriminative representations that effectively distinguish fraudulent from legitimate transactions in highly imbalanced datasets."
