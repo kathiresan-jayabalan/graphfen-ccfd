@@ -5,8 +5,8 @@ Graph-Based Heterogeneous Fraud Embedding Network for Credit Card Fraud Detectio
 
 This repository provides a **Jupyter Notebook** implementation of a Graph Neural Network-based pipeline (GRAPHFEN) for **credit card fraud detection and evaluation** using the public Kaggle `creditcard.csv` dataset.
 
-Main artifact: `notebooks/graphfen-ccfd.ipynb`  
-(end-to-end execution: data loading → heterogeneous graph construction → embedding learning → classification → evaluation)
+**Main artifact:** `notebooks/graphfen-ccfd.ipynb`  
+**End-to-end execution:** data loading → heterogeneous graph construction → embedding learning → classification → evaluation
 
 ---
 
