@@ -1,4 +1,5 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18618197.svg)](https://doi.org/10.5281/zenodo.18618197)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18653875.svg)](https://doi.org/10.5281/zenodo.18653875)
+
 
 # GraphFEN-CCFD  
 Graph-Based Heterogeneous Fraud Embedding Network for Credit Card Fraud Detection
@@ -158,4 +159,4 @@ This project is licensed under the Apache License 2.0.
 
 If you use this repository in academic or research work, please cite:
 
-Jayabalan, K. (2026). GraphFEN-CCFD: Heterogeneous GNN Model for Credit Card Fraud Detection (v1.0.1). Zenodo. https://doi.org/10.5281/zenodo.18618197
+Jayabalan, K. (2026). GraphFEN-CCFD: Heterogeneous GNN Model for Credit Card Fraud Detection (v1.0.2). Zenodo. https://doi.org/10.5281/zenodo.18653875
