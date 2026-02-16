@@ -1,6 +1,6 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18618197.svg)](https://doi.org/10.5281/zenodo.18618197)
 
-# GRAPHFEN-CCFD  
+# GraphFEN-CCFD  
 Graph-Based Heterogeneous Fraud Embedding Network for Credit Card Fraud Detection
 
 This repository provides a **Jupyter Notebook** implementation of a Graph Neural Network-based pipeline (GRAPHFEN) for **credit card fraud detection and evaluation** using the public Kaggle `creditcard.csv` dataset.
